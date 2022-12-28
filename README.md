@@ -23,4 +23,4 @@ Guaranteed constraints:
 1 ≤ a.length ≤ 1000,
 -103 ≤ a[i] ≤ 103.
 [output] array.integer
-The resulting array after the mutation.
+The resulting array after the mutation..
